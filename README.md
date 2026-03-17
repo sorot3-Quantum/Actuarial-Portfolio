@@ -33,7 +33,7 @@
 
 ---
 
-##  **Objectifs 2025**
+##  **Objectifs 202-**
 - [ ] Maîtriser Python pour l'actuariat
 - [ ] Obtenir certification Microsoft Azure Data Scientist
 - [ ] Décrocher stage en compagnie d'assurance
@@ -49,9 +49,9 @@
 - **Python for Data Science** - Auto-formation
 
 ### **Objectif certifications :**
-- Microsoft Azure Data Scientist Associate (2025)
-- Google Professional Data Engineer (2025)
-- AWS Machine Learning Specialty (2026)
+- Microsoft Azure Data Scientist Associate 
+- Google Professional Data Engineer 
+- AWS Machine Learning Specialty 
 
 ---
 
