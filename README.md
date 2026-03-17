@@ -3,8 +3,7 @@
 ## Actuarial Science Student | Future Risk Expert
 
 **Formation :** Bachelor Actuarial Science - IUGB  
-**Localisation :** Abidjan, Côte d'Ivoire  
-**GPA :** 3.4/5.0  
+**Localisation :** Abidjan, Côte d'Ivoire   
 **Objectif :** Devenir un expert en gestion des risques
 
 
