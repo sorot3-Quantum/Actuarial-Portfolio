@@ -33,7 +33,7 @@
 
 ---
 
-##  **Objectifs 202-**
+##  **Objectifs **
 - [ ] Maîtriser Python pour l'actuariat
 - [ ] Obtenir certification Microsoft Azure Data Scientist
 - [ ] Décrocher stage en compagnie d'assurance
